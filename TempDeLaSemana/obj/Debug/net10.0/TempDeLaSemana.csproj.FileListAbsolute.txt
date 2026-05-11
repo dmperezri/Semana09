@@ -1,0 +1,14 @@
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\bin\Debug\net10.0\TempDeLaSemana.exe
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\bin\Debug\net10.0\TempDeLaSemana.deps.json
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\bin\Debug\net10.0\TempDeLaSemana.runtimeconfig.json
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\bin\Debug\net10.0\TempDeLaSemana.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\bin\Debug\net10.0\TempDeLaSemana.pdb
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.AssemblyInfoInputs.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.AssemblyInfo.cs
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.csproj.CoreCompileInputs.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\refint\TempDeLaSemana.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.pdb
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\TempDeLaSemana.genruntimeconfig.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\TempDeLaSemana\obj\Debug\net10.0\ref\TempDeLaSemana.dll
