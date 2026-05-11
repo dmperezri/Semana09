@@ -1,0 +1,15 @@
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\bin\Debug\net10.0\VentasTienda.exe
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\bin\Debug\net10.0\VentasTienda.deps.json
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\bin\Debug\net10.0\VentasTienda.runtimeconfig.json
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\bin\Debug\net10.0\VentasTienda.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\bin\Debug\net10.0\VentasTienda.pdb
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfoInputs.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfo.cs
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.csproj.CoreCompileInputs.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.sourcelink.json
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\refint\VentasTienda.dll
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.pdb
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\VentasTienda.genruntimeconfig.cache
+C:\Users\danni\Onedrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\VentasTienda\obj\Debug\net10.0\ref\VentasTienda.dll
