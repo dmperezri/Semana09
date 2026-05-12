@@ -1,0 +1,15 @@
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\bin\Debug\net10.0\InventarioDeLibreria.exe
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\bin\Debug\net10.0\InventarioDeLibreria.deps.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\bin\Debug\net10.0\InventarioDeLibreria.runtimeconfig.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\bin\Debug\net10.0\InventarioDeLibreria.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\bin\Debug\net10.0\InventarioDeLibreria.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.AssemblyInfoInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.AssemblyInfo.cs
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.csproj.CoreCompileInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.sourcelink.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\refint\InventarioDeLibreria.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\InventarioDeLibreria.genruntimeconfig.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\InventarioDeLibreria\obj\Debug\net10.0\ref\InventarioDeLibreria.dll
