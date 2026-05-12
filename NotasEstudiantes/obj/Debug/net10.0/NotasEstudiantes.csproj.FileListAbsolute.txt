@@ -1,0 +1,15 @@
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\bin\Debug\net10.0\NotasEstudiantes.exe
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\bin\Debug\net10.0\NotasEstudiantes.deps.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\bin\Debug\net10.0\NotasEstudiantes.runtimeconfig.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\bin\Debug\net10.0\NotasEstudiantes.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\bin\Debug\net10.0\NotasEstudiantes.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.AssemblyInfoInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.AssemblyInfo.cs
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.sourcelink.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\refint\NotasEstudiantes.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\NotasEstudiantes.genruntimeconfig.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\NotasEstudiantes\obj\Debug\net10.0\ref\NotasEstudiantes.dll
