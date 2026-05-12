@@ -1,0 +1,15 @@
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\bin\Debug\net10.0\PuntajesVideoJuegos.exe
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\bin\Debug\net10.0\PuntajesVideoJuegos.deps.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\bin\Debug\net10.0\PuntajesVideoJuegos.runtimeconfig.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\bin\Debug\net10.0\PuntajesVideoJuegos.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\bin\Debug\net10.0\PuntajesVideoJuegos.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.AssemblyInfoInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.AssemblyInfo.cs
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.csproj.CoreCompileInputs.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.sourcelink.json
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\refint\PuntajesVideoJuegos.dll
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.pdb
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\PuntajesVideoJuegos.genruntimeconfig.cache
+C:\Users\danni\OneDrive\Documents\UAM\Introduccion_a_la_Programacion\Semana09\PuntajesVideoJuegos\obj\Debug\net10.0\ref\PuntajesVideoJuegos.dll
